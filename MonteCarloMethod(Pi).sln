@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonteCarloMethod(Pi)", "MonteCarloMethod(Pi)\MonteCarloMethod(Pi).csproj", "{BBB5C958-4EE9-4846-9568-FF1D14C6813F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB5C958-4EE9-4846-9568-FF1D14C6813F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB5C958-4EE9-4846-9568-FF1D14C6813F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB5C958-4EE9-4846-9568-FF1D14C6813F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB5C958-4EE9-4846-9568-FF1D14C6813F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22626CE4-C6AC-447B-B946-62DA21AEE104}
+	EndGlobalSection
+EndGlobal
